@@ -1,0 +1,126 @@
+/*header page start*/
+.bg-header-color{
+    background-color: #f2f2f2;
+}
+/*header page end*/
+/*hero-section start*/
+.hero-section
+{
+    height: 550px;
+    background-image: url("../img/31214.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.hero-section h1
+{
+    font-size: 60px;
+}
+/*hero-section end*/
+/*small body start*/
+.bg-background-financial{background-color: #0e3e7f;}
+/*small body end*/
+/*Our Capacity start*/
+.bg-capacity{background-color: #eaf2fd;}
+.h-300{height: 300px;}
+/*Our Capacity end*/
+
+/*  decision section start*/
+.decision-section
+{
+    height: 500px;
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.inner-bg
+{
+    background-color: rgba(14,64,127,0.65);
+    height: 100%;
+}
+.fs-60{
+    font-size: 60px;
+}
+/*  decision section end*/
+/*team work Start*/
+.bg-team
+{
+    height: 500px;
+    background-image: url("../img/team-work.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.experience-card
+{
+    margin-top: 70px;
+    padding-left: 35px;
+}
+.experience-card h1
+{
+    font-size: 60px;
+     color: #c4d4ea;
+}
+.btn-color{background-color: #0e3e7f;}
+/*team work end*/
+/*About Us section start*/
+.bg-about-us{background-color: #eaf2fd;}
+.line
+{
+    width: 100px;
+    padding: 2px;
+    background-color: #35393f;
+    margin-left: 42%;
+}
+.about-card
+{
+    box-shadow: 5px 5px 20px 0 rgb(0 0 0 / 40%);
+}
+h-200{height: 200px}
+/*About Us section end*/
+
+/*Our Team section start*/
+.our-team-section
+{
+    /*height: 500px;*/
+    background-image: url("../img/Untitled1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.team-content
+{
+    position: absolute;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    right: 0;
+    padding: 25px;
+}
+/*Our Team section end*/
+
+/*location page start*/
+.bg-location-us{background-color: #eaf2fd;}
+.btn-location-color{background-color: #0e3e7f;}
+.location-building
+{
+    height: 500px;
+    background-image: url("../img/1092.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/*location page end*/
+
+/*footer section start*/
+.bg-footer-color
+{
+    background-color: #0e3e7f;
+}
+.bg-nur
+{
+     color:#1abc9c;
+}
+/*footer section end*/
